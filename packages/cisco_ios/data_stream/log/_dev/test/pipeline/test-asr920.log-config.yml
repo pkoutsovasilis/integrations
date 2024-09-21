@@ -1,0 +1,4 @@
+expected_outputs:
+  - name: test-asr920.log-8.16.0-0-expected.json
+    version_constraints:
+      "elasticsearch": "^8.16.0-0" # allow pre-releases
